@@ -91,36 +91,6 @@ def add_new_feature(df, 銷售_df, t2017, is_train=True, name_prefix=None):
         "銷售_14_2017_aft": get_timespan(銷售_df, t2017 + timedelta(days=16), 15, 14).sum(axis=1).values,
     }
 
-    for i in [3, 7, 14, 30, 60, 140]:
-        tmp1 = get_timespan(df, t2017, i, i)
-        tmp2 = (get_timespan(銷售_df, t2017, i, i) > 0) * 1
-
-        X['has_銷售_mean_%s' % i] = (tmp1 * tmp2.replace(0, np.nan)).mean(axis=1).values
-        X['has_銷售_mean_%s_decay' % i] = (tmp1 * tmp2.replace(0, np.nan) * np.power(0.9, np.arange(i)[::-1])).sum(axis=1).values
-
-        X['no_銷售_mean_%s' % i] = (tmp1 * (1 - tmp2).replace(0, np.nan)).mean(axis=1).values
-        X['no_銷售_mean_%s_decay' % i] = (tmp1 * (1 - tmp2).replace(0, np.nan) * np.power(0.9, np.arange(i)[::-1])).sum(axis=1).values
-
-    for i in [3, 7, 14, 30, 60, 140]:
-        tmp = get_timespan(df, t2017, i, i)
-        X['diff_%s_mean' % i] = tmp.diff(axis=1).mean(axis=1).values
-        X['mean_%s_decay' % i] = (tmp * np.power(0.9, np.arange(i)[::-1])).sum(axis=1).values
-        X['mean_%s' % i] = tmp.mean(axis=1).values
-        X['median_%s' % i] = tmp.median(axis=1).values
-        X['min_%s' % i] = tmp.min(axis=1).values
-        X['max_%s' % i] = tmp.max(axis=1).values
-        X['std_%s' % i] = tmp.std(axis=1).values
-
-    for i in [3, 7, 14, 30, 60, 140]:
-        tmp = get_timespan(df, t2017 + timedelta(days=-7), i, i)
-        X['diff_%s_mean_2' % i] = tmp.diff(axis=1).mean(axis=1).values
-        X['mean_%s_decay_2' % i] = (tmp * np.power(0.9, np.arange(i)[::-1])).sum(axis=1).values
-        X['mean_%s_2' % i] = tmp.mean(axis=1).values
-        X['median_%s_2' % i] = tmp.median(axis=1).values
-        X['min_%s_2' % i] = tmp.min(axis=1).values
-        X['max_%s_2' % i] = tmp.max(axis=1).values
-        X['std_%s_2' % i] = tmp.std(axis=1).values
-
     for i in [7, 14, 30, 60, 140]:
         tmp = get_timespan(df, t2017, i, i)
         X['has_sales_days_in_last_%s' % i] = (tmp > 0).sum(axis=1).values
