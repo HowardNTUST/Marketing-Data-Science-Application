@@ -5,3 +5,5 @@
 - Buying：[當零售業的「採購」遇到機器學習時？！（附Python程式碼）](https://bit.ly/2LcRBcV)
 - contract：[誰會簽約？以「精準行銷模型」評估顧客帶來的預期獲利（附Python程式）](https://bit.ly/2PXH0kp)
 - speech2text_1min：[手動上字幕？ Python 完成「自動化上字幕」案例分享（附Python程式碼與Demo）](https://bit.ly/2ICXtrG)
+- autoprice：[行銷定價新型態：即時動態定價策略與實做（附實現程式碼）](https://bit.ly/2OaN1c0)
+- autoprice2：[即時動態定價「實做 2」 — 集成模型（附實現程式碼）](https://bit.ly/2AvjG8A)
