@@ -15,3 +15,7 @@
 - time series positioning：[時間序列定位圖（含範例與R程式碼）](https://bit.ly/2OYtf8Y)
 - Precise positioning：[不是行銷專家，一樣能找出自身市場定位（含範例與R程式碼）](https://bit.ly/2Rl60CG)
 - location_radar：[我的競爭優勢？ 視覺化口碑定位雷達圖輕鬆搜出來！（附實現程式碼）](https://bit.ly/2PVy8M5)
+
+
+## Special issue
+- 如何成為資料科學家：[如何成為資料科學家](https://github.com/HowardNTUST/Marketing-Data-Science-Application/tree/master/%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%AE%B6)
