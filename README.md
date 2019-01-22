@@ -9,6 +9,7 @@
 - speech2text_1min：[手動上字幕？ Python 完成「自動化上字幕」案例分享（附Python程式碼與Demo）](https://bit.ly/2ICXtrG)
 - autoprice：[行銷定價新型態：即時動態定價策略與實做（附實現程式碼）](https://bit.ly/2OaN1c0)
 - autoprice2：[即時動態定價「實做 2」 — 集成模型（附實現程式碼）](https://bit.ly/2AvjG8A)
+- speech2text_stock：[Python機器學習應用-【AI上字幕】與【情感分析】個案！（附程式碼與Demo）](https://bit.ly/2sGwNii)
 
 ## R series
 - RFM：[常貴客？新客？ 讓RFM模型簡簡單單解釋一切！（附實現程式碼）](https://bit.ly/2AvJj97)
