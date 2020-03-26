@@ -2,6 +2,7 @@
 只要是與行銷資料科學相關的應用，皆將在此發表相關codes，主要會以Pytorch及Sklearn的應用為主。 說明文件隨附[MDS粉專](https://www.facebook.com/MarketingDataScienceTMR/)文章。
 
 ## Python series
+- cost_effect_gps_positioning:[成本效益定位分析 — 利用「外部輿情」與「內部資料」，讓「市場定位」也能找高CP值的產品（附Python程式碼）](https://bit.ly/2xqgSKR)
 - word2vec-skip-gram：[詞向量在商業的應用-系列1-人類邏輯能量化?（附Pytorch模型與程式碼）](https://bit.ly/2Mm9Uc3)
 - Buying：[當零售業的「採購」遇到機器學習時？！（附Python程式碼）](https://bit.ly/2LcRBcV)
 - contract：[精準行銷模型-系列1 - 誰會簽約？以「精準行銷模型」評估顧客帶來的預期獲利（附Python程式）](https://bit.ly/2PXH0kp)
