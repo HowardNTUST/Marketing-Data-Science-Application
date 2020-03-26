@@ -267,4 +267,15 @@ del df2['顧客數量']
 RFM.RFM_stackedplot(df2, frequency_label,recency_label,'gender')
 
 
+# 商品個別推薦
+
+product =  orders['product'].unique().tolist()
+
+recom_list = []
+for i in range(len(df2[product])):
+    aa = df2[product].iloc[i,::].rank().sort_values(ascending = False)
+    recom_list.append('、'.join(aa.index))
+    
+df2['recommend_product'] =recom_list
+
 
