@@ -1,5 +1,5 @@
 # Marketing-Data-Science-Application
-只要是與行銷資料科學相關的應用，皆將在此發表相關codes，主要會以Pytorch及Sklearn的應用為主。 說明文件隨附[MDS粉專](https://www.facebook.com/MarketingDataScienceTMR/)文章。
+只要是與行銷資料科學相關的應用，皆將在此發表相關codes，主要會以PyTorch及Sklearn的應用為主。 說明文件隨附[MDS粉專](https://www.facebook.com/MarketingDataScienceTMR/)文章。
 
 ## Python series
 - cost_effect_gps_positioning:[成本效益定位分析 — 利用「外部輿情」與「內部資料」，讓「市場定位」也能找高CP值的產品（附Python程式碼）](https://bit.ly/2xqgSKR)
@@ -23,3 +23,13 @@
 
 ## Special issue
 - 如何成為資料科學家：[如何成為資料科學家](https://github.com/HowardNTUST/Marketing-Data-Science-Application/tree/master/%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%AE%B6)
+
+## Online Courses
+我們將Python結合專案實務經驗，所製作出來的課程結晶，也歡迎參考：
+- [Python 0到1 基礎商業數據分析實戰](https://hahow.in/cr/python0-1)
+- [AI 行銷學：用 Python 機器學習創造商業新價值](https://hahow.in/cr/python-ml)
+- [用 Python 打造自己的股票小秘書](https://hahow.in/cr/stock-secretary)
+- [台科 EMBA 年年爆滿的一門 Word 課(A系列)](https://hahow.in/cr/tmr-word1)
+- [台科 EMBA 年年爆滿的一門 Word 課(B+C系列)](https://hahow.in/cr/tmr-word2)
+
+
