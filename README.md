@@ -3,7 +3,7 @@
 
 ## Python series
 - Python-RFM-RF-basics：[常貴客？新客？ 讓RFM模型簡簡單單做到顧客產品推薦！（附Python實現程式碼）](https://bit.ly/Python-RFM-RF-basics)
-- cost_effect_gps_positioning：[成本效益定位分析 — 利用「外部輿情」與「內部資料」，讓「市場定位」也能找高CP值的產品（附Python程式碼）](https://bit.ly/2xqgSKR)
+- cost_effect_gps_positioning：[成本效益定位分析 — 利用「外部輿情」與「內部資料」，讓「市場定位」也能找高CP值的產品（附Python程式碼）](https://bit.ly/2xqgSKR) [【觀看解說影片】](https://www.youtube.com/watch?v=fOZWq5fhWqA)
 - word2vec-skip-gram：[詞向量在商業的應用-系列1-人類邏輯能量化?（附Pytorch模型與程式碼）](https://bit.ly/2Mm9Uc3)
 - Buying：[當零售業的「採購」遇到機器學習時？！（附Python程式碼）](https://bit.ly/2LcRBcV)
 - contract：[精準行銷模型-系列1 - 誰會簽約？以「精準行銷模型」評估顧客帶來的預期獲利（附Python程式）](https://bit.ly/2PXH0kp)
