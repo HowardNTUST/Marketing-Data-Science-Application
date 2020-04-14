@@ -1,6 +1,9 @@
 # Marketing-Data-Science-Application
 只要是與行銷資料科學相關的應用，皆將在此發表相關codes，主要會以PyTorch及Sklearn的應用為主。 說明文件隨附[MDS粉專](https://www.facebook.com/MarketingDataScienceTMR/)文章。
 
+## 大數據說人話 Youtube 系列
+- 如何用資料科學方法找出高CP值產品 （附Python程式碼）：[Youtube影片](https://www.youtube.com/watch?v=fOZWq5fhWqA)； [文章](https://bit.ly/2xqgSKR)；[程式碼](https://github.com/HowardNTUST/Marketing-Data-Science-Application/tree/master/cost_effect_gps_positioning)
+
 ## Python series
 - Python-RFM-RF-basics：[常貴客？新客？ 讓RFM模型簡簡單單做到顧客產品推薦！（附Python實現程式碼）](https://bit.ly/Python-RFM-RF-basics)
 - cost_effect_gps_positioning：[成本效益定位分析 — 利用「外部輿情」與「內部資料」，讓「市場定位」也能找高CP值的產品（附Python程式碼）](https://bit.ly/2xqgSKR) [【觀看解說影片】](https://www.youtube.com/watch?v=fOZWq5fhWqA)
