@@ -19,7 +19,7 @@
 
 ## R series
 - Marketing Analytics：The power of regression model in promotion marketing series 1：[文章](https://bit.ly/2VdaG21)
-- 
+- Marketing Analytics：The power of Generalized Linear Mixed-effect Model(GLMM) in promotion marketing series 2： [文章](https://bit.ly/2ylV6YR)
 - RFM：[常貴客？新客？ 讓RFM模型簡簡單單解釋一切！（附實現程式碼）](https://bit.ly/2AvJj97)
 - RFM2：[價值？ 成本？ 讓RFM模型輕輕鬆鬆評估一切！（附實現程式碼）](https://bit.ly/2vC6e2b)
 - time series positioning：[時間序列定位圖（含範例與R程式碼）](https://bit.ly/2OYtf8Y)
