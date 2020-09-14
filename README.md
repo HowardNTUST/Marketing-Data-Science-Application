@@ -26,6 +26,11 @@
 - Precise positioning：[不是行銷專家，一樣能找出自身市場定位（含範例與R程式碼）](https://bit.ly/2Rl60CG)
 - location_radar：[我的競爭優勢？ 視覺化口碑定位雷達圖輕鬆搜出來！（附實現程式碼）](https://bit.ly/2PVy8M5)
 
+## 當STP「行銷策略」遇到資料科學
+- [當STP「行銷策略」遇到資料科學 — 系列1 — 案例介紹](https://medium.com/marketingdatascience/%E7%95%B6stp-%E8%A1%8C%E9%8A%B7%E7%AD%96%E7%95%A5-%E9%81%87%E5%88%B0%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8-%E7%B3%BB%E5%88%971-%E6%A1%88%E4%BE%8B%E4%BB%8B%E7%B4%B9-38df79a93eee)
+- [當STP「行銷策略」遇到資料科學 — 系列2 — 案例分析與Python套件規劃](https://medium.com/marketingdatascience/%E7%95%B6stp-%E8%A1%8C%E9%8A%B7%E7%AD%96%E7%95%A5-%E9%81%87%E5%88%B0%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8-%E7%B3%BB%E5%88%972-%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E8%88%87python%E5%A5%97%E4%BB%B6%E8%A6%8F%E5%8A%83-d90333ddc718)
+- [當STP「行銷策略」遇到資料科學 — 系列3 — 【資料蒐集】 Python網路爬蟲專案導向教學](https://medium.com/marketingdatascience/%E7%95%B6stp-%E8%A1%8C%E9%8A%B7%E7%AD%96%E7%95%A5-%E9%81%87%E5%88%B0%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8-%E7%B3%BB%E5%88%974-%E8%B3%87%E6%96%99%E8%92%90%E9%9B%86-ptt%E8%B2%BC%E6%96%87%E6%8A%93%E5%8F%96%E6%A8%A1%E7%B5%84%E6%95%99%E5%AD%B8-fcd94c05ad41)
+- [當STP「行銷策略」遇到資料科學 — 系列4 — 【資料蒐集】PTT貼文抓取模組教學](https://medium.com/marketingdatascience/%E7%95%B6stp-%E8%A1%8C%E9%8A%B7%E7%AD%96%E7%95%A5-%E9%81%87%E5%88%B0%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8-%E7%B3%BB%E5%88%974-%E8%B3%87%E6%96%99%E8%92%90%E9%9B%86-ptt%E8%B2%BC%E6%96%87%E6%8A%93%E5%8F%96%E6%A8%A1%E7%B5%84%E6%95%99%E5%AD%B8-fcd94c05ad41)
 
 ## Special issue
 - 如何成為資料科學家：[如何成為資料科學家](https://github.com/HowardNTUST/Marketing-Data-Science-Application/tree/master/%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%AE%B6)
