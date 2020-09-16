@@ -38,8 +38,6 @@
 - 不可不知的字典操作 — 商務資料儲存與創建(附Python程式碼)[文章](https://medium.com/marketingdatascience/%E4%B8%8D%E5%8F%AF%E4%B8%8D%E7%9F%A5%E7%9A%84%E5%AD%97%E5%85%B8%E6%93%8D%E4%BD%9C-%E5%95%86%E5%8B%99%E8%B3%87%E6%96%99%E5%84%B2%E5%AD%98%E8%88%87%E5%89%B5%E5%BB%BA-%E9%99%84python%E7%A8%8B%E5%BC%8F%E7%A2%BC-56df799f3d24)；[程式碼](https://medium.com/marketingdatascience/%E4%B8%8D%E5%8F%AF%E4%B8%8D%E7%9F%A5%E7%9A%84%E5%AD%97%E5%85%B8%E6%93%8D%E4%BD%9C-%E5%95%86%E5%8B%99%E8%B3%87%E6%96%99%E5%84%B2%E5%AD%98%E8%88%87%E5%89%B5%E5%BB%BA-%E9%99%84python%E7%A8%8B%E5%BC%8F%E7%A2%BC-56df799f3d24)
 - 還在用老方法處理重複性的資料？For迴圈登場除煩腦(附Python程式碼)文章；[程式碼](https://github.com/HowardNTUST/Marketing-Data-Science-Application/blob/master/Python%200%E5%88%B01%20%E5%95%86%E5%8B%99%E6%87%89%E7%94%A8%E8%88%87%E5%AF%A6%E4%BD%9C%E7%9A%84%E6%9C%80%E5%BC%B7%E5%AF%A6%E6%88%B0%E6%8C%87%E5%8D%97(I)/CH2-11_%E5%BE%90%E5%AD%90%E7%9A%93_For%E8%BF%B4%E5%9C%88%E6%93%8D%E4%BD%9C%EF%BC%8D%E8%A7%A3%E6%B1%BA%E9%87%8D%E8%A4%87%E4%BD%9C%E6%A5%AD%E7%9A%84%E5%A4%A7%E5%8A%9F%E8%87%A3.py)
 
-https://github.com/HowardNTUST/Marketing-Data-Science-Application/tree/master/Python%200%E5%88%B01%20%E5%95%86%E5%8B%99%E6%87%89%E7%94%A8%E8%88%87%E5%AF%A6%E4%BD%9C%E7%9A%84%E6%9C%80%E5%BC%B7%E5%AF%A6%E6%88%B0%E6%8C%87%E5%8D%97(I)
-
 ## Special issue
 - 如何成為資料科學家：[如何成為資料科學家](https://github.com/HowardNTUST/Marketing-Data-Science-Application/tree/master/%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%AE%B6)
 
