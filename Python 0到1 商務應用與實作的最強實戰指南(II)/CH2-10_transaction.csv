@@ -1,0 +1,11 @@
+tid,uid,product,quantity,price
+T0001,1,lemon,5,12.4
+T0002,5,banana,6,42.16
+T0003,4,orange,4,6.2
+T0003,3,cherry,3,74.4
+T0003,3,guava,2,24.8
+T0004,2,banana,10,42.16
+T0004,2,orange,5,6.2
+T0004,2,guava,2,24.8
+T0005,5,orange,4,6.2
+T0005,5,lemon,5,12.4
