@@ -18,7 +18,9 @@
 - client_list:[用Python機器學習步步打造「自己的客戶精準名單」（附Python程式碼）](http://bit.ly/2EjOnzt)
 - 當金融業的信用卡發放遇到機器學習！？[當金融業的信用卡發放遇到機器學習(情境介紹與研究流程)（附Python程式碼）](https://reurl.cc/Q6pz60)
 - 透過機器學習預測股市漲跌:[透過機器學習預測股市漲跌 - 基本資料處理（附Python程式碼）](https://bit.ly/3z2JZOc)
-- 透過機器學習預測「電信業」顧客流失率：[透過機器學習預測「電信業」顧客流失率 - 基礎概況分析（附Python程式碼）](https://bit.ly/2VAcqFD)
+- 透過機器學習預測「電信業」顧客流失率：
+  - [透過機器學習預測「電信業」顧客流失率 - 基礎概況分析（附Python程式碼）](https://bit.ly/2VAcqFD)
+  
 
 ## R series
 - Marketing Analytics：The power of regression model in promotion marketing series 1：[文章](https://bit.ly/2VdaG21)
