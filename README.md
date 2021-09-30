@@ -21,6 +21,7 @@
 - 透過機器學習預測股市漲跌:
   - [透過機器學習預測股市漲跌 - 基本資料處理（附Python程式碼）](https://bit.ly/3z2JZOc)
   - [透過機器學習預測股市漲跌 - 進階資料處理（附Python程式碼）](https://bit.ly/3EWO7DF)
+  - [透過機器學習預測股市漲跌-模型建模(附Python程式碼)](https://bit.ly/2ZLt8nh)
   - [透過機器學習預測股市漲跌 - 模型投資策略驗證（附Python程式碼）](https://bit.ly/3idZopw)
 - 透過機器學習預測「電信業」顧客流失率：
   - [透過機器學習預測「電信業」顧客流失率 - 基礎概況分析（附Python程式碼）](https://bit.ly/2VAcqFD)
