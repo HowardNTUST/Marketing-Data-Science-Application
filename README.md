@@ -27,7 +27,8 @@
 - 透過機器學習預測「電信業」顧客流失率：
   - [透過機器學習預測「電信業」顧客流失率 - 基礎概況分析（附Python程式碼）](https://bit.ly/2VAcqFD)
   - [透過機器學習預測「電信業」顧客流失率 -揭秘機器學習建模與不平衡資料集處理實戰（附Python程式碼）](https://medium.com/p/690ec36e4e/edit)
-  
+- 如何 0–1 來預測新酒品的市場趨勢？
+  - [深度學習 — Part 1 : EDA 與 Python 畫圖工具](https://bit.ly/3QgmOZr)
 
 ## R series
 - Marketing Analytics：The power of regression model in promotion marketing series 1：[文章](https://bit.ly/2VdaG21)
